@@ -51,7 +51,7 @@ const apps = [
     icon: "buyme",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://www.buymeacoffee.com/blueedgetechno",
+    payload: "https://www.buymeacoffee.com/ercode",
   },
   {
     name: "Store",
@@ -285,15 +285,15 @@ const apps = [
     icon: "github",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://github.com/blueedgetechno/win11React",
+    payload: "https://github.com/ErcouldnT",
   },
-  {
-    name: "Unescape",
-    icon: "unescape",
-    type: "action",
-    action: "EXTERNAL",
-    payload: "https://blueedge.me/unescape",
-  },
+  // {
+  //   name: "Unescape",
+  //   icon: "unescape",
+  //   type: "action",
+  //   action: "EXTERNAL",
+  //   payload: "https://blueedge.me/unescape",
+  // },
   {
     name: "Discord",
     icon: "discord",
