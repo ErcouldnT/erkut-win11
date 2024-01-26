@@ -44,8 +44,8 @@ export const AboutWin = () => {
           </a>
           .
         </p>
-        <p className="pl-4">
-          {t("about.contact")} :&nbsp;
+        <p className="">
+          {t("about.contact")}:&nbsp;
           <a target="_blank" href="mailto:me@erkut.dev" rel="noreferrer">
             me@erkut.dev
           </a>
@@ -59,7 +59,7 @@ export const AboutWin = () => {
             href="https://www.microsoft.com/en-in/windows-365"
             rel="noreferrer"
           >
-            Windows 365 cloud PC
+            Windows 365 Cloud PC
           </a>
           .
         </p>
